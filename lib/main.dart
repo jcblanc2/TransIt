@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:trans_it/utils/constants.dart';
 import 'pages/auth/login_page.dart';
-import 'pages/auth/registe_details.dart';
-import 'pages/auth/register.dart';
+import 'pages/auth/registe_details_page.dart';
+import 'pages/auth/register_page.dart';
 import 'pages/splash_screen.dart';
 
 void main() {
